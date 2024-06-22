@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Python text adventure game**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **JS/Java**
 
-- 🤝 I’m looking for help with **c++**
+- 🤝 I’m looking for help with **Java**
 
 - 📫 How to reach me **joshjosh530@gmail.com**
 
